@@ -19,7 +19,7 @@ The folder contains the following files:
 
 ### Gimbal Alone
 
-![Gimbal Alone](gimbal_rendered.png)
+![Gimbal Alone](Gimbal_rendered.png)
 
 ### Gimbal Attached to a Plane
 
